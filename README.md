@@ -20,9 +20,9 @@ Sliders for feature input (Sepal/Petal measurements)
 
 Clean and simple design
 
-📸 App Preview
+[📸 App Preview](https://github.com/AspiringAnalyst001/Iris-species-ml-prediction/blob/main/Screenshot%202025-09-06%20101643.png)
 
-🛠️ Tech Stack
+[🛠️ Tech Stack](https://github.com/AspiringAnalyst001/Iris-species-ml-prediction/blob/main/Screenshot%202025-09-06%20102324.png)
 
 Python
 
@@ -36,7 +36,7 @@ Pandas & NumPy (for data handling)
 
 Clone the repository:
 
-git clone https://github.com/your-username/iris-species-prediction.git
+git clone [https://github.com/your-username/iris-species-prediction.git](https://github.com/AspiringAnalyst001/Iris-species-ml-prediction)
 cd iris-species-prediction
 
 
@@ -62,7 +62,7 @@ Then open the app in your browser at: http://localhost:8501/
 
 📂 Project Structure
 📦 iris-species-prediction
- ┣ 📜 app.py               # Streamlit app
+ ┣ 📜 MT.py               # Streamlit app
  ┣ 📜 model.pkl            # Trained ML model (if saved)
  ┣ 📜 requirements.txt     # Python dependencies
  ┣ 📜 README.md            # Project documentation
@@ -95,9 +95,5 @@ AWS / GCP / Azure
 
 Contributions, issues, and feature requests are welcome! Feel free to open a PR or raise an issue.
 
-📜 License
 
-This project is licensed under the MIT License – see the LICENSE
- file for details.
-
-🔗 Author: Your Name
+🔗 Author: Daipayan Sengupta
